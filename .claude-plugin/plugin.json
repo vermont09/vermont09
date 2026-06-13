@@ -1,0 +1,10 @@
+{
+  "name": "github-workflow-helper",
+  "version": "0.1.0",
+  "description": "Commands and agents for common GitHub pull request and issue workflows.",
+  "author": {
+    "name": "vermont09"
+  },
+  "license": "MIT",
+  "keywords": ["github", "pull-requests", "issues", "code-review"]
+}
