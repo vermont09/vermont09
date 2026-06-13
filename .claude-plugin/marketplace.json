@@ -1,0 +1,29 @@
+{
+  "name": "vermont09-marketplace",
+  "owner": {
+    "name": "vermont09"
+  },
+  "plugins": [
+    {
+      "name": "github-workflow-helper",
+      "description": "Commands and agents for common GitHub pull request and issue workflows.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "vermont09"
+      }
+    },
+    {
+      "name": "superpowers",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "version": "5.1.0",
+      "source": "./superpowers",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      },
+      "homepage": "https://github.com/obra/superpowers",
+      "repository": "https://github.com/obra/superpowers"
+    }
+  ]
+}
